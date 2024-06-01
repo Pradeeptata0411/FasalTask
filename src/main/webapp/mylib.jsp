@@ -9,6 +9,15 @@
     <title>Movie Library</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <style>
+    .upload-details {
+            margin-left: 220px;
+            padding: 26px;
+            padding-top: 60px;
+            font-size: 24px;
+            font-weight: bold;
+            padding-bottom: 1px;
+        }
+    
         body {
             font-family: Arial, sans-serif;
             margin: 0;
@@ -328,9 +337,11 @@
             <li><a href="getallmymovies"><i class="fas fa-film"></i>My Library</a></li>
             <li><a href="upload"><i class="fas fa-upload"></i>Upload</a></li>
              <li><a href="playlist-details"><i class="fas fa-list-ul"></i>My Playlist</a></li>
-            <li><a href="omdb-api"><i class="fas fa-database"></i>OMDb API</a></li>
+           
         </ul>
     </div>
+    
+  <h1 class="upload-details">Movies Uploaded by You</h1>
     <div class="main-content">    
         <div class="movies-row">
             <c:forEach items="${movielist}" var="mov">

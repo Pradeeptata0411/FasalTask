@@ -340,7 +340,7 @@
             <li><a href="getallmymovies"><i class="fas fa-film"></i>My Library</a></li>
             <li><a href="upload"><i class="fas fa-upload"></i>Upload</a></li>
              <li><a href="playlist-details"><i class="fas fa-list-ul"></i>My Playlist</a></li>
-            <li><a href="omdb-api"><i class="fas fa-database"></i>OMDb API</a></li>
+           
         </ul>
     </div>
     <div class="container">
