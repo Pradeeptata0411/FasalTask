@@ -92,3 +92,18 @@
 <br>
 <h1>Here is the final video which will show every operation in this project 👇</h1>
 click this -> https://drive.google.com/file/d/1Hw6s52C7SrCKRk5bu9JXoBHeR3gJ11WJ/view?usp=sharing
+
+<br>
+<br>
+<br>
+
+<h1>
+steps to run project 👇
+1.Download the zip 
+2.Extract the project
+3.Open eclipse and ccilck on file and then click on existing maven project 
+4.wait for some time 
+5.open my sql and create a database named fasalmovieapplication and change the password accordingly
+6.Finaly open the bootdash board
+7.Now right click on the project and click on restart the project
+</h1>
