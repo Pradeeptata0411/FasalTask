@@ -98,12 +98,12 @@ click this -> https://drive.google.com/file/d/1Hw6s52C7SrCKRk5bu9JXoBHeR3gJ11WJ/
 <br>
 
 <h1>
-steps to run project 👇
-1.Download the zip 
-2.Extract the project
-3.Open eclipse and ccilck on file and then click on existing maven project 
-4.wait for some time 
-5.open my sql and create a database named fasalmovieapplication and change the password accordingly
-6.Finaly open the bootdash board
-7.Now right click on the project and click on restart the project
+steps to run project 👇 <br>
+1.Download the zip <br>
+2.Extract the project <br>
+3.Open eclipse and ccilck on file and then click on existing maven project  <br>
+4.wait for some time <br>
+5.open my sql and create a database named fasalmovieapplication and change the password accordingly <br>
+6.Finaly open the bootdash board <br>
+7.Now right click on the project and click on restart the project <br>
 </h1>
